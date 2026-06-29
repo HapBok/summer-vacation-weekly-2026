@@ -1,6 +1,6 @@
 # 2026 Summer Vacation Weekly Log
 
-This repository contains weekly public outputs from my 2026 summer self-directed security bootcamp.
+This repository contains weekly public outputs from my 2026 summer self-directed security study
 
 ## Period
 
