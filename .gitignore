@@ -1,0 +1,15 @@
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+.gdb_history
+
+*.m4a
+*.mp3
+*.wav
+
+__pycache__/
+.DS_Store
+Thumbs.db
